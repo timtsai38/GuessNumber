@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="message_game_start">遊戲開始!</string>
+    <string name="message_range_error">數字範圍至少得大於0!</string>
+    <string name="message_new_round">新回合開始!</string>
+    <string name="message_bingo">Bingo!</string>
+</resources>
